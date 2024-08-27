@@ -1,0 +1,9 @@
+@media  (max-width: 575.98px){
+    .cards, .listas{
+        text-align: center;
+    }
+}
+
+.card, .list{
+    margin: 20px;
+}
